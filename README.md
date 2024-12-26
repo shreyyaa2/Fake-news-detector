@@ -34,7 +34,9 @@ Fine-Tuning the Model:
 * Define training parameters (learning rate, batch size, epochs).
 
 * Use the training dataset to fine-tune the model.
-                      ############### Why logistic regression model?
+
+
+   Why logistic regression model?
 * The goal of Logistic Regression is to model the probability of a binary outcome, y, given a set of features, X.
   In this case:
 
