@@ -1,6 +1,8 @@
 # Fake-news-detector
 #IMPLEMENTATION STEPS OF TRAINING A MODEL
-          1.**DATA COLLECTION AND PREPROCESSING**
+           
+           
+           1.**DATA COLLECTION AND PREPROCESSING**
   Gather datasets:
 
 Public Datasets:
